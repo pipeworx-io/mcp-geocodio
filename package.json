@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geocodio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Geocodio MCP — wraps the Geocodio geocoding API (geocod.io)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-e0d986920af303f057fafb05890b8a55ec8445f716c5648c638b54d866bbbad5",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }
